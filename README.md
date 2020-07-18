@@ -1,3 +1,6 @@
+# SEE REDDIT POST:
+https://www.reddit.com/r/ChipCommunity/comments/htkasm/chip_flashing_guide_july_2020/
+
 # CHIP-tools
 
 A collection of scripts for working with CHIP
